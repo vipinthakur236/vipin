@@ -1,4 +1,5 @@
 struct student{
 	char name[20];
 	int age;
-};students12345
+};stud
+12345
